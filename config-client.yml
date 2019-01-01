@@ -20,7 +20,7 @@ server:
 spring:
   profiles: test
   application:
-    name: service-config-client-test-2222
+    name: service-config-client-test-4
 eureka:
   client:
     serviceUrl:
